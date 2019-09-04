@@ -1,0 +1,46 @@
+#one{
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-style: solid;
+    border-radius: 75px;
+}
+
+
+
+
+#two{
+    background-color: red;
+    margin: 60px;
+    float: left;
+    width: 400px;
+    border-style: solid;
+    border-radius: 60px;
+    padding: 60px;
+
+}
+
+
+
+#three{
+    background-color: goldenrod;
+    float: right;
+    margin: 60px;
+    height: 50px;
+    border-radius: 58px;
+    padding: 100px;
+    border-style: solid;
+    width: 400px;
+}
+
+footer{
+    background-color: brown;
+    clear: both;
+    margin: 75px;
+    border-style: solid;
+    padding: 150px;
+    border-radius: 80px;
+    width: 700px;
+    display: inline-block;
+}
